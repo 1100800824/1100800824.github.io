@@ -11,7 +11,7 @@ github_repo: "https://github.com/1100800824/1100800824.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A man with nothing."
+sidebar-about-description: "A man with nothing and everything."
 sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
