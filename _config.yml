@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: yaowenchao1991@126.com
 description: "hello python, hello world."
 keyword: "BY, BY Blog, 文超的博客, yaowenchao, python"
-url: "http://lovejing.github.io"          # your host, for absolute URL
+url: "http://1100800824.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/1100800824/lovejing.github.io.git" # you code repository
+github_repo: "https://github.com/1100800824/1100800824.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
