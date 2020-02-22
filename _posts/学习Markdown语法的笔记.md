@@ -1,5 +1,13 @@
+---
+
+layout:				post<br/>		title:					note of learning markdown<br/>		subtitle：		   Hello Markdown<br/>		author:				yao-wen-chao<br/>		header-img:		<br/>		catalog:				true<br/>		tags:					 markdown<br/>
+
+---
+
 # 学习Markdown语法的笔记
+
 ## 字体加粗与斜体
+
 下面展示如何加粗字体，**加粗字体**是这样的，接下来展示如何使用斜体，*斜体*是这样的。然后是加粗斜体，答案当然很简单，那就是**加粗**和*斜体*的组合啦，是***这样***的。  ~~删除线~~是这样的，<u>下划线</u>是这样的。
 ***
 ***
@@ -53,5 +61,4 @@ def creat_dir(name)
 ***
 ***
 ## 插入图片
-好的，下面我们来试试如何插入图片
-![yao-wen-chao](https://github.com/1100800824/hello-world/blob/master/about-me.jpg "yao-wen-chao")
+好的，下面我们来试试如何插入图片<br/>![yao-wen-chao](https://github.com/1100800824/hello-world/blob/master/about-me.jpg "yao-wen-chao")
