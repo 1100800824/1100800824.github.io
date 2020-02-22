@@ -1,5 +1,4 @@
 ---
-
 layout:				post
 title:				  note of learning markdown
 subtitle：		   	    Hello Markdown
@@ -8,7 +7,6 @@ header-img:
 catalog:			 true
 tags:				
 	- markdown
-
 ---
 
 # 学习Markdown语法的笔记
