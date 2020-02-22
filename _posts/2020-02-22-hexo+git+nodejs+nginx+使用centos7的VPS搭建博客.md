@@ -96,7 +96,7 @@ nvs link lts #将其永久加入到path中
 
 ## 安装 nginx
 
-参考[[Zhanming's blog](https://qizhanming.com/blog/2018/08/06/how-to-install-nginx-on-centos-7)的文章，需要先添加源，然后使用`yum install`命令安装。具体命令如下：
+参考[Zhanming's blog](https://qizhanming.com/blog/2018/08/06/how-to-install-nginx-on-centos-7)的文章，需要先添加源，然后使用`yum install`命令安装。具体命令如下：
 
 ```
 sudo rpm -ivh http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm
@@ -167,9 +167,6 @@ chmod 600 .ssh/authorized_keys
 
 如果还不行，试试在本机电脑.ssh文件夹下（也就是生成公钥的文件夹）创建config文件，输入如下内容：
 
-4.`ssh git@ip`，被拒绝，是远程端口默认为22端口，而不是我VPS的ssh真正端口
-
-解决方法：在.ssh文件夹下（也就是生成公钥的文件夹）创建config文件，输入如下内容：
 ```
 # alex's git server
 Host VPS的IP
