@@ -1,6 +1,13 @@
 ---
 
-layout:				post<br/>		title:					note of learning markdown<br/>		subtitle：		   Hello Markdown<br/>		author:				yao-wen-chao<br/>		header-img:		<br/>		catalog:				true<br/>		tags:					 markdown<br/>
+layout:				post
+title:				  note of learning markdown
+subtitle：		   	    Hello Markdown
+author:				yao-wen-chao
+header-img:				
+catalog:			 true
+tags:				
+	- markdown
 
 ---
 
