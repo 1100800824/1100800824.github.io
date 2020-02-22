@@ -1,13 +1,15 @@
 ---
-layout:				post
-title:				  note of learning markdown
-subtitle：		   	    Hello Markdown
-author:				yao-wen-chao
-header-img:				
-catalog:			 true
-tags:				
-	- markdown
+layout:     post
+title:      note of learning markdown
+subtitle:   Hello Markdown
+date:       2020-02-22
+author:     yao-wen-chao
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - markdown
 ---
+
 
 # 学习Markdown语法的笔记
 
