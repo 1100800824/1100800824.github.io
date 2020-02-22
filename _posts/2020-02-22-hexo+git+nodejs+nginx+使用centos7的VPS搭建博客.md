@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      hexo+git+nodejs+nginx+使用centos7的VPS搭建博客
+subtitle:   搭建博客
+date:       2020-02-22
+author:     yao-wen-chao
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - hexo
+    - nodejs
+    - nginx
+---
 # hexo+git+nodejs+nginx+使用centos7的VPS搭建博客
 
 废话不说，直接上干货。
