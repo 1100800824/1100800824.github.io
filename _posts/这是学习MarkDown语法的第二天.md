@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      note of learning markdown
+subtitle:   Hello Markdown
+date:       2020-02-22
+author:     yao-wen-chao
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - markdown
+---
+
+
+# 这是学习MarkDown语法的第二天
+
+## 超链接
+
+试试超链接吧<br/>[百度](www.baidu.com)一下，你就知道，[知乎](zhihu.com)是一个很好的网站。
