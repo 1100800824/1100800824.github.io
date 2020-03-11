@@ -6,13 +6,12 @@ date:       2020-02-22
 author:     yao-wen-chao
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
+categories: 博客
 tags:
     - hexo
     - nodejs
     - nginx
 ---
-# hexo+git+nodejs+nginx+使用centos7的VPS搭建博客
-
 废话不说，直接上干货。
 
 ## 本机（个人电脑）上的操作（以win10 64位系统为例）
@@ -96,7 +95,7 @@ nvs link lts #将其永久加入到path中
 
 ## 安装 nginx
 
-参考[Zhanming's blog](https://qizhanming.com/blog/2018/08/06/how-to-install-nginx-on-centos-7)的文章，需要先添加源，然后使用`yum install`命令安装。具体命令如下：
+参考[[Zhanming's blog](https://qizhanming.com/blog/2018/08/06/how-to-install-nginx-on-centos-7)的文章，需要先添加源，然后使用`yum install`命令安装。具体命令如下：
 
 ```
 sudo rpm -ivh http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm

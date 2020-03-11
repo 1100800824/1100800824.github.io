@@ -44,9 +44,13 @@ tags:
 lang="en" （属性节点）
 ```
 
+---
+
 ### 节点关系
 
 父、子、同胞、先辈、后代，以人类社会关系类比即可。
+
+---
 
 ## xpath语法
 
@@ -76,6 +80,8 @@ XPath 使用路径表达式在 XML 文档中选取节点。节点是通过沿着
 | bookstore//book | 选择属于 bookstore 元素的后代的所有 book 元素，而不管它们位于 bookstore 之下的什么位置。 |
 | //@lang         | 选取名为 lang 的所有属性。                                   |
 
+---
+
 ### 谓语（Predicates）
 
 谓语用来查找某个特定的节点或者包含某个指定的值的节点。
@@ -94,6 +100,8 @@ XPath 使用路径表达式在 XML 文档中选取节点。节点是通过沿着
 | //title[@lang='eng']               | 选取所有 title 元素，且这些元素拥有值为 eng 的 lang 属性。   |
 | /bookstore/book[price>35.00]       | 选取 bookstore 元素的所有 book 元素，且其中的 price 元素的值须大于 35.00。 |
 | /bookstore/book[price>35.00]/title | 选取 bookstore 元素中的 book 元素的所有 title 元素，且其中的 price 元素的值须大于 35.00。 |
+
+---
 
 ### 选取未知节点
 
