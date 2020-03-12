@@ -40,6 +40,24 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 使用`git add xxxx.md`命令后再使用`git status`查看状态：
 
+```
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   _posts/2020-03-11-note-of-learning-git.md
+```
+
+
+
 ## 提交修改
 
-提交修改使用`git commit -m ‘xxxxxx’`命令；
+提交修改使用`git commit -m ‘xxxxxx’`命令；此次使用`git commit -m ‘添加note of learning git'`命令提交修改，输出如下：
+
+```
+[master a990a74] 添加note of learning git
+ 1 file changed, 33 insertions(+), 1 deletion(-)
+```
+
+然后再使用`git status`命令查看状态：
