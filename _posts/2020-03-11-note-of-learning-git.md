@@ -61,3 +61,15 @@ Changes to be committed:
 ```
 
 然后再使用`git status`命令查看状态：
+
+```
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+nothing to commit, working tree clean
+```
+
+## 与远程仓库关联
+
+在github网站新建一个与本地仓库一样名字的仓库后，可以使用`git remote add origin git@github.com:xxxxxxxx/xxxxxx.git`将本地仓库与github网站上的远程仓库关联起来，此时，远程仓库的名字就是`origin`。随后，可以使用`git push -u origin master`命令将本地仓库的所有内容一次性推送到远程仓库里。以后有修改内容需要再次推送时，可以省略`-u`参数。
+
